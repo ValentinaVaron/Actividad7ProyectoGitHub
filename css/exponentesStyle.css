@@ -1,0 +1,86 @@
+.menu{
+   width: 100%;
+   height: 110px;
+   z-index: 101;
+   background: black;
+   font-size: 23px;
+   font-family: MV Boli;
+   text-align: center;
+   }
+   
+.icono{
+       background: black;
+       margin: auto;
+       text-align: center;
+       padding-top: 15px;
+       font-family: MV Boli;
+   }
+
+.imagen6{
+border-radius: 15%;
+
+}
+
+
+.navegacion ul{
+       padding: 0;
+       margin: 0;
+       list-style: none;
+       display: inline-flex;
+       
+       }
+       
+.navegacion li{
+       padding-top: 15px;
+       padding-left: 30px;
+       
+       }
+       
+.navegacion li a:hover{
+       color: rgb(224, 80, 200);
+       text-decoration: overline;
+       }
+       
+.navegacion li a{
+       display: block;
+       padding: 15px;
+       text-decoration: none;
+       color: white;
+       
+       }
+
+.box1{
+         background: rgba(214, 73, 202, 0.521); 
+         width: 100%;
+         height: 300px;
+         display: flex;
+         justify-content: space-around;
+         align-items: center;
+         flex-wrap: wrap;
+         text-align: justify;
+         font-size: medium;
+         font-family: MV Boli;
+     
+     }
+     
+.box1 > p{
+     
+         width: 700px; 
+         font-family: MV Boli;
+         
+     }
+
+.creador{
+
+       width: 100%;
+       height: 120px;
+       background-color: black;
+       color:rgba(250, 128, 114, 0.829);
+       align-content: center;
+       justify-content: center;
+       display: flex;
+       font-family: MV Boli;
+       text-align: center;
+       padding-top: 18px;
+     }
+       
